@@ -14,5 +14,5 @@ The departments at the center of the three clusters:
 INSERT PICTURE
 
 # Summary and Implications
-1. Half of the departments fall under cluster 1, which is: average percent of people with academia and for-profit jobs, and a slightly higher percentage in non-profit jobs
-2. If the career center at Hopkins wants to help students in certain departments with finding potential jobs for the future, it would be best to recommend a sector that aligns with the cluster the department belongs in
+1. Half of the departments fall under cluster 1, which is: average percent of people with academia and for-profit jobs, and a slightly higher percentage in non-profit jobs.
+2. If the career center at Hopkins wants to help students in certain departments with finding potential jobs for the future, it would be best to recommend a sector that aligns with the cluster the department belongs in.
