@@ -11,7 +11,7 @@ The departments at the center of the three clusters:
 2. Cellular and Molecular Physiology → average academia/for-profit, low gov and non-profit
 3. Human Genetics and Molecular Biology → average eacademia/for-profit/non-profit, higher gov
 
-INSERT PICTURE
+![alt_link](https://github.com/AndrealZhang/Analyzing_differences_between_JHU_departments_sector_10yrs_after_graduation/blob/master/cluster_groups.png)
 
 # Summary and Implications
 1. Half of the departments fall under cluster 1, which is: average percent of people with academia and for-profit jobs, and a slightly higher percentage in non-profit jobs.
