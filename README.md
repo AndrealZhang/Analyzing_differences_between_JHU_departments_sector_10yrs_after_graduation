@@ -4,7 +4,7 @@ How are different departments at JHU related in regards to what sectors people w
 # Cluster Analysis
 I first converted the PDF data into an Excel file using Tabula. After cleaning up the data, I set up my cluster analysis by calculating the z-scores, distance squared, and min distance squared for each department and sector. Using the solver to minimize the sum of the minimum squared distance, I found the departments that were the center of the three clusters:
 
-INSERT PICTURE
+![alt_link](https://github.com/AndrealZhang/Analyzing_differences_between_JHU_departments_sector_10yrs_after_graduation/blob/master/cluster_centers.png)
 
 The departments at the center of the three clusters:
 1. Biomedical Engineering → average academia/for-profit/gov, slightly higher non profit
